@@ -1,0 +1,122 @@
+export const homelist = [
+    {
+        id: 0,
+        name: "Sunny Villa",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "123/2",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "90001",
+        rooms: 4,
+        washrooms: 3,
+        cost: 350000 // assuming cost is in dollars
+    },
+    {
+        id: 1,
+        name: "Mountain Retreat",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpegg",
+        address: "456/3",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "80202",
+        rooms: 3,
+        washrooms: 2,
+        cost: 280000
+    },
+    {
+        id: 2,
+        name: "Beach House",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "789/3",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "33101",
+        rooms: 5,
+        washrooms: 4,
+        cost: 480000
+    },
+    {
+        id: 3,
+        name: "Urban Apartment",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "101/5",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "10001",
+        rooms: 2,
+        washrooms: 1,
+        cost: 220000
+    },
+    {
+        id: 4,
+        name: "Country Cottage",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "202/2",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "73301",
+        rooms: 3,
+        washrooms: 2,
+        cost: 320000
+    },
+    {
+        id: 5,
+        name: "Lakeside Cabin",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "303/3",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "48201",
+        rooms: 1,
+        washrooms: 1,
+        cost: 150000
+    },
+    {
+        id: 6,
+        name: "Downtown Loft",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "404/4",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "60601",
+        rooms: 2,
+        washrooms: 2,
+        cost: 280000
+    },
+    {
+        id: 7,
+        name: "Suburban House",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "505/5",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "07302",
+        rooms: 4,
+        washrooms: 3,
+        cost: 380000
+    },
+    {
+        id: 8,
+        name: "Penthouse Suite",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "606/6",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "89101",
+        rooms: 3,
+        washrooms: 3,
+        cost: 450000
+    },
+    {
+        id: 9,
+        name: "Farmhouse",
+        image_url: "https://im.proptiger.com/1/780845/6/lifestyle-dream-homes-i-images-for-elevation-of-celebrity-lifestyle-dream-homes-i-991628.jpeg",
+        address: "707/7",
+        state: "Maharashtra",
+        district: "Mumbai",
+        pincode: "66062",
+        rooms: 6,
+        washrooms: 4,
+        cost: 550000
+    }
+];
